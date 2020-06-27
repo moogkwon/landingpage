@@ -31,7 +31,6 @@
           >
                   <v-img
                     :src="require('@/assets/articles/applestore.png')"
-                    class="grey lighten-2"
                     width="100%"
                   >
                   </v-img>
@@ -42,7 +41,6 @@
           >
                   <v-img
                     :src="require('@/assets/articles/playstore.png')"
-                    class="grey lighten-2"
                     width="100%"
                   >
                   </v-img>
@@ -56,7 +54,6 @@
 
           <v-img
             :src="require('@/assets/articles/iphonex.png')"
-            class="grey lighten-2"
             width="50%"
           >
           </v-img>
