@@ -16,7 +16,7 @@
           <!-- md="7"
           offset-md="1" -->
 
-          <h1 style="color:black;" class="display-3 font-weight-light">
+          <h1 style="color:black;" class="display-3 font-weight-medium">
             Invest in US Stocks with Zero Commission
           </h1>
 
