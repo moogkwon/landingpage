@@ -3,6 +3,7 @@
     cols="12"
     :md="size === 2 ? 6 : size === 3 ? 4 : undefined"
   >
+    <!-- :md="size === 2 ? 6 : size === 3 ? 4 : undefined" -->
     <base-card
       :height="value.prominent ? 450 : 350"
       href="#!"
