@@ -20,8 +20,6 @@
       Articles: () => import('@/components/home/Articles'),
       Banner: () => import('@/components/home/Banner'),
       BannerSecond: () => import('@/components/home/BannerSecond'),
-      Social: () => import('@/components/home/Social'),
-      Subscribe: () => import('@/components/home/Subscribe'),
     },
   }
 </script>

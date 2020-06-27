@@ -6,8 +6,6 @@
 
     <core-view />
 
-    <core-footer />
-
   </v-app>
 </template>
 
@@ -17,7 +15,6 @@
 
     components: {
       CoreDrawer: () => import('@/components/core/Drawer'),
-      CoreFooter: () => import('@/components/core/Footer'),
       CoreAppBar: () => import('@/components/core/AppBar'),
       CoreView: () => import('@/components/core/View'),
     },
